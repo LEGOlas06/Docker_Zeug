@@ -1,0 +1,10 @@
+services:
+  ubuntu-server:
+    image: ubuntu:22.04
+    container_name: ubuntu-server
+    environment:
+      - abc=example_value
+    volumes:
+      - C:\docker\test:/test
+    tty: true
+
