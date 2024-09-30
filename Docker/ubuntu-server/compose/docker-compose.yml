@@ -5,6 +5,6 @@ services:
     environment:
       - abc=example_value
     volumes:
-      - C:\docker\test:/test
+      - D:\Schule\5BHET\AIIT\Docker\Docker_Zeug\Docker\ubuntu-server\compose\testdata:/test
     tty: true
 
