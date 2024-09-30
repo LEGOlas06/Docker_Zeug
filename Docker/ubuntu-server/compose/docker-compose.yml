@@ -1,7 +1,7 @@
 services:
   ubuntu-server:
-    image: ubuntu:22.04
-    container_name: ubuntu-server
+    image: mein_ubuntu
+    container_name: ubuntu_1
     environment:
       - abc=example_value
     volumes:
