@@ -1,10 +1,10 @@
 services:
   ubuntu-server:
     image: mein_ubuntu
-    container_name: ubuntu_1
+    container_name: "${NAME:-ubuntu-name}"
     environment:
-      - abc=example_value
+      - abc=${ENV_ABC:-example_value}
     volumes:
-      - D:\Schule\5BHET\AIIT\Docker\Docker_Zeug\Docker\ubuntu-server\compose\testdata:/test
+      - ${TEST_VOLUME}:/test
     tty: true
 

@@ -11,3 +11,5 @@ RUN apt-get update -y &&  \
 
 # Setze den Default-Befehl (Shell starten)
 CMD ["bash"]
+
+# Docker-Build:
