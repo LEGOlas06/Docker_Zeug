@@ -1,0 +1,42 @@
+[Mon Oct 14 13:33:40.326139 2024] [core:warn] [pid 7] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 13:33:40.337019 2024] [mpm_event:notice] [pid 7:tid 140307975190400] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Mon Oct 14 13:33:40.337312 2024] [core:notice] [pid 7:tid 140307975190400] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 14 13:35:36.668314 2024] [core:warn] [pid 7] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 13:35:36.679958 2024] [mpm_event:notice] [pid 7:tid 140171193300864] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Mon Oct 14 13:35:36.680545 2024] [core:notice] [pid 7:tid 140171193300864] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Nov 29 21:29:14.646086 2024] [core:warn] [pid 7] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Nov 29 21:29:14.755497 2024] [core:warn] [pid 7:tid 139886286448512] AH00098: pid file /etc/apache2/${APACHE_PID_FILE} overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 29 21:29:14.756906 2024] [mpm_event:notice] [pid 7:tid 139886286448512] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 29 21:29:14.757467 2024] [core:notice] [pid 7:tid 139886286448512] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 13:19:44.642682 2024] [core:warn] [pid 7] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 13:19:44.751157 2024] [mpm_event:notice] [pid 7:tid 140704805996416] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 13:19:44.751493 2024] [core:notice] [pid 7:tid 140704805996416] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 13:22:17.282773 2024] [core:warn] [pid 7] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 13:22:17.293915 2024] [core:warn] [pid 7:tid 139857617753984] AH00098: pid file /etc/apache2/${APACHE_PID_FILE} overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 02 13:22:17.295149 2024] [mpm_event:notice] [pid 7:tid 139857617753984] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 13:22:17.295517 2024] [core:notice] [pid 7:tid 139857617753984] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 14:25:46.220503 2024] [core:warn] [pid 26] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 14:25:46.239292 2024] [mpm_event:notice] [pid 26:tid 139871003981696] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 14:25:46.239674 2024] [core:notice] [pid 26:tid 139871003981696] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 14:28:11.569532 2024] [core:warn] [pid 27] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 14:28:11.582913 2024] [mpm_event:notice] [pid 27:tid 139904398215040] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 14:28:11.583422 2024] [core:notice] [pid 27:tid 139904398215040] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 14:28:59.013463 2024] [core:warn] [pid 26] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 14:28:59.026486 2024] [mpm_event:notice] [pid 26:tid 140472633911168] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 14:28:59.027690 2024] [core:notice] [pid 26:tid 140472633911168] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 15:08:52.344731 2024] [core:warn] [pid 26] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 15:08:52.356977 2024] [mpm_event:notice] [pid 26:tid 140308106180480] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 15:08:52.357310 2024] [core:notice] [pid 26:tid 140308106180480] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 02 15:15:27.904799 2024] [core:warn] [pid 26] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 02 15:15:27.916913 2024] [mpm_event:notice] [pid 26:tid 140338722305920] AH00489: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Mon Dec 02 15:15:27.917292 2024] [core:notice] [pid 26:tid 140338722305920] AH00094: Command line: 'apache2 -D FOREGROUND'

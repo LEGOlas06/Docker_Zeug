@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  webserver:
+    image: webserver1
+    container_name: "${CONTAINER_NAME:-webserver1}"
+    environment:
+      - APACHE_ADMIN=${EMAIL:-leander.klik@htlstp.at}
+    volumes:
+      - ${WEBDIR}:/var/www/html
+    ports:
+      - "${HTTP_PORT:-8180}:80"
+      - "${SSH_PORT:-8022}:22"
+    tty: true
