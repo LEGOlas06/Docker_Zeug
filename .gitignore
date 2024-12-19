@@ -1,3 +1,4 @@
 .idea
 *.iml
 Docker/ubuntu-server/compose/testdata
+Docker/SQL/dump
