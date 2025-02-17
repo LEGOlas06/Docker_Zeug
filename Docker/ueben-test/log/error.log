@@ -3,3 +3,8 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 [Sun Dec 01 17:17:21.746206 2024] [mpm_event:notice] [pid 1:tid 140638239184768] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
 [Sun Dec 01 17:17:21.747085 2024] [core:notice] [pid 1:tid 140638239184768] AH00094: Command line: 'apache2 -D FOREGROUND'
 [Sun Dec 01 19:17:56.022330 2024] [mpm_event:notice] [pid 1:tid 140638239184768] AH00491: caught SIGTERM, shutting down
+[Mon Feb 10 12:38:07.667113 2025] [core:warn] [pid 1] AH00111: Config variable ${APACHE_PID_FILE} is not defined
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 10 12:38:07.679388 2025] [mpm_event:notice] [pid 1:tid 140100817303424] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 10 12:38:07.679853 2025] [core:notice] [pid 1:tid 140100817303424] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Feb 10 12:42:02.914217 2025] [mpm_event:notice] [pid 1:tid 140100817303424] AH00491: caught SIGTERM, shutting down
